@@ -1,6 +1,6 @@
 # RXCTF-2021
 
-![rxctflogo](assets\images\rxctflogo.png)
+![rxctflogo](https://raw.githubusercontent.com/RJXH/rxctf-2021/main/assets/images/rxctflogo.png)
 
 终于，鸽了N久的软协CTF竞赛要来了。本次竞赛的题目类型涉及到密码、隐写、杂项等，比赛涉及到知识不多也不少，作为一场CTF的比赛来说它是不够的，但是做为一个传播网络安全与入门CTF的兴趣CTF还是非常不错的。同时RXCTF将作为我们协会第三个精品活动来打造，希望参赛选手可以通过此次竞赛了解到一些网络安全相关的知识与技能。
 
