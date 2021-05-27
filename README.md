@@ -6,7 +6,7 @@
 
 2021.05.27
 
-题目如下：（题目可以通过到https://github.com/RJXH/rxctf-2021下载，答案需要提交到问卷星）
+题目如下：（题目可以通过到https://github.com/RJXH/rxctf-2021 下载，答案需要提交到问卷星）
 
 ### 0x00 隐写
 
